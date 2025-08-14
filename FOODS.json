@@ -1,0 +1,487 @@
+{
+    "Beans": {
+        "GI": 30.0,
+        "CF": 0.16
+    },
+    "Lentils": {
+        "GI": 28.0,
+        "CF": 0.16
+    },
+    "Chickpeas": {
+        "GI": 10.0,
+        "CF": 0.23
+    },
+    "Frozen corn": {
+        "GI": 50.0,
+        "CF": 0.17
+    },
+    "Cob corn": {
+        "GI": 54.0,
+        "CF": 0.1
+    },
+    "Cooked parsnips": {
+        "GI": 52.0,
+        "CF": 0.14
+    },
+    "Baked potato": {
+        "GI": 111.0,
+        "CF": 0.19
+    },
+    "Spaghetti":{
+        "GI":42,
+        "CF":0.29
+    },
+    "Boiled potato": {
+        "GI": 82.0,
+        "CF": 0.19
+    },
+    "French fried": {
+        "GI": 75.0,
+        "CF": 0.34
+    },
+    "Pizza":{
+        "GI":60,
+        "CF":0.25
+    },
+    "Burgers":{
+        "GI":66,
+        "CF":0.24
+    },
+    "Mashed potato": {
+        "GI": 87.0,
+        "CF": 0.16
+    },
+    "Sweet potato": {
+        "GI": 70.0,
+        "CF": 0.17
+    },
+    "Apple": {
+        "GI": 36.0,
+        "CF": 0.12
+    },
+    "unsweeted applesauce": {
+        "GI": 35.0,
+        "CF": 0.1
+    },
+    "Raw apricot": {
+        "GI": 34.0,
+        "CF": 0.09
+    },
+    "Banana": {
+        "GI": 48.0,
+        "CF": 0.14
+    },
+    "Blackberries": {
+        "GI": 25.0,
+        "CF": 0.04
+    },
+    "Blueberries": {
+        "GI": 40.0,
+        "CF": 0.12
+    },
+    "Grapes": {
+        "GI": 45.0,
+        "CF": 0.16
+    },
+    "Kiwi (with skin)": {
+        "GI": 50.0,
+        "CF": 0.1
+    },
+    "Tangerines": {
+        "GI": 30.0,
+        "CF": 0.08
+    },
+    "Mango": {
+        "GI": 56.0,
+        "CF": 0.15
+    },
+    "watermalon": {
+        "GI": 65.0,
+        "CF": 0.07
+    },
+    "Nectarine": {
+        "GI": 35.0,
+        "CF": 0.09
+    },
+    "Orange": {
+        "GI": 45.0,
+        "CF": 0.07
+    },
+    "Peach": {
+        "GI": 42.0,
+        "CF": 0.08
+    },
+    "Pear": {
+        "GI": 40.0,
+        "CF": 0.12
+    },
+    "Pineapple": {
+        "GI": 59.0,
+        "CF": 0.12
+    },
+    "Plum": {
+        "GI": 25.0,
+        "CF": 0.1
+    },
+    "Pomegranate": {
+        "GI": 35.0,
+        "CF": 0.15
+    },
+    "Raspberries": {
+        "GI": 25.0,
+        "CF": 0.05
+    },
+    "Strawberries": {
+        "GI": 40.0,
+        "CF": 0.05
+    },
+    "Apple juice": {
+        "GI": 41.0,
+        "CF": 0.11
+    },
+    "Orange juice": {
+        "GI": 41.0,
+        "CF": 0.11
+    },
+    "Dried apricot": {
+        "GI": 35.0,
+        "CF": 0.55
+    },
+    "Cranberries": {
+        "GI": 45.0,
+        "CF": 0.77
+    },
+    "Dates": {
+        "GI": 70.0,
+        "CF": 0.67
+    },
+    "Raisins": {
+        "GI": 65.0,
+        "CF": 0.76
+    },
+    "Skim milk": {
+        "GI": 32.0,
+        "CF": 0.05
+    },
+    "Chocolate milk": {
+        "GI": 49.0,
+        "CF": 0.11
+    },
+    "Water":{
+        "GI":0.0,
+        "CF":0.0
+    },
+    "Soy beverage": {
+        "GI": 21.0,
+        "CF": 0.06
+    },
+    "Yogurt": {
+        "GI": 35.0,
+        "CF": 0.17
+    },
+    "No iced cake": {
+        "GI": 40.0,
+        "CF": 0.54
+    },
+    "Iced cake": {
+        "GI": 70.0,
+        "CF": 0.59
+    },
+    "Hard candy": {
+        "GI": 80.0,
+        "CF": 0.98
+    },
+    "jellybeans": {
+        "GI": 80.0,
+        "CF": 0.93
+    },
+    "Licorice candies": {
+        "GI": 78.0,
+        "CF": 0.8
+    },
+    "Potato chips": {
+        "GI": 56.0,
+        "CF": 0.46
+    },
+    "Tortilla chips": {
+        "GI": 70.0,
+        "CF": 0.6
+    },
+    "Storebought cookies": {
+        "GI": 70.0,
+        "CF": 0.65
+    },
+    "Homemade cookies": {
+        "GI": 70.0,
+        "CF": 0.6
+    },
+    "Oatmeal": {
+        "GI": 100.0,
+        "CF": 0.65
+    },
+    "Granolabar": {
+        "GI": 100.0,
+        "CF": 0.65
+    },
+    "Honey": {
+        "GI": 60.0,
+        "CF": 0.82
+    },
+    "Ice cream": {
+        "GI": 46.0,
+        "CF": 0.28
+    },
+    "Jam": {
+        "GI": 65.0,
+        "CF": 0.85
+    },
+    "Ketchup": {
+        "GI": 55.0,
+        "CF": 0.23
+    },
+    "Rice":{
+        "GI":50,
+        "CF":0.28
+    },
+    "Bread":{
+        "GI":50,
+        "CF":0.49
+    },
+    "sweet pickle": {
+        "GI": 0,
+        "CF": 0.2
+    },
+    "Popcorn": {
+        "GI": 55.0,
+        "CF": 0.63
+    },
+    "Sugar": {
+        "GI": 58.0,
+        "CF": 1.0
+    },
+    "Syrup": {
+        "GI": 70.0,
+        "CF": 0.61
+    },
+    "Beets": {
+        "GI": 70.0,
+        "CF": 0.08
+    },
+    "Carrots": {
+        "GI": 85.0,
+        "CF": 0.06
+    },
+    "Cooked mixed vegetables": {
+        "GI": 15.0,
+        "CF": 0.1
+    },
+    "Cooked onions": {
+        "GI": 15.0,
+        "CF": 0.08
+    },
+    "Green peas": {
+        "GI": 22.0,
+        "CF": 0.09
+    },
+    "Tomato juice": {
+        "GI": 31.0,
+        "CF": 0.04
+    },
+    "Canned tomato paste": {
+        "GI": 15.0,
+        "CF": 0.15
+    },
+    "Canned tomato sauce": {
+        "GI": 45.0,
+        "CF": 0.04
+    },
+    "Asparagus": {
+        "GI": 15.0,
+        "CF": 0.02
+    },
+    "Broccoli": {
+        "GI": 15.0,
+        "CF": 0.05
+    },
+    "Chineese cabbage": {
+        "GI": 15.0,
+        "CF": 0.01
+    },
+    "Read cabbege": {
+        "GI": 15.0,
+        "CF": 0.04
+    },
+    "Green cabbage": {
+        "GI": 15.0,
+        "CF": 0.04
+    },
+    "Cauliflower": {
+        "GI": 15.0,
+        "CF": 0.02
+    },
+    "Celery": {
+        "GI": 15.0,
+        "CF": 0.01
+    },
+    "Chard": {
+        "GI": 0.0,
+        "CF": 0.02
+    },
+    "Cucumber": {
+        "GI": 15.0,
+        "CF": 0.03
+    },
+    "Eggplant": {
+        "GI": 20.0,
+        "CF": 0.06
+    },
+    "Kale": {
+        "GI": 15.0,
+        "CF": 0.06
+    },
+    "Leeks": {
+        "GI": 15.0,
+        "CF": 0.07
+    },
+    "Lettuce": {
+        "GI": 15.0,
+        "CF": 0.02
+    },
+    "Mushrooms": {
+        "GI": 15.0,
+        "CF": 0.03
+    },
+    "Okra": {
+        "GI": 20.0,
+        "CF": 0.02
+    },
+    "Green peppers": {
+        "GI": 15.0,
+        "CF": 0.03
+    },
+    "Red peppers": {
+        "GI": 15.0,
+        "CF": 0.05
+    },
+    "Rhubarb": {
+        "GI": 15.0,
+        "CF": 0.03
+    },
+    "Spinach": {
+        "GI": 15.0,
+        "CF": 0.01
+    },
+    "Squash": {
+        "GI": 15.0,
+        "CF": 0.05
+    },
+    "Tomato": {
+        "GI": 30.0,
+        "CF": 0.03
+    },
+    "Trunips": {
+        "GI": 15.0,
+        "CF": 0.03
+    },
+    "Zucchini": {
+        "GI": 15.0,
+        "CF": 0.02
+    },
+    "Cheese": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Eggs": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Fish": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Meat": {
+        "GI": 0.0,
+        "CF": 0.03
+    },
+    "Poultry": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "soy": {
+        "GI": 15.0,
+        "CF": 0.1
+    },
+    "Tofu": {
+        "GI": 15.0,
+        "CF": 0.02
+    },
+    "Avocado": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Lemon":{
+        "GI":30,
+        "CF":0.54
+    },
+    "Bacon": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Butter": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Margarine": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Mayonnaise": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Almonds": {
+        "GI": 15.0,
+        "CF": 0.05
+    },
+    "Cashew": {
+        "GI": 15.0,
+        "CF": 0.17
+    },
+    "Peanut": {
+        "GI": 15.0,
+        "CF": 0.08
+    },
+    "Oil": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Olives": {
+        "GI": 0.0,
+        "CF": 0.01
+    },
+    "Nut butters": {
+        "GI": 14.0,
+        "CF": 0.13
+    },
+    "Salad dressing": {
+        "GI": 15.0,
+        "CF": 0.13
+    },
+    "Seeds": {
+        "GI": 0.0,
+        "CF": 0.0
+    },
+    "Sour cream": {
+        "GI": 56.0,
+        "CF": 0.03
+    },
+    "Tahini": {
+        "GI": 40.0,
+        "CF": 0.2
+    },
+    "Whipped cream": {
+        "GI": 55.0,
+        "CF": 0.03
+    }
+    
+}

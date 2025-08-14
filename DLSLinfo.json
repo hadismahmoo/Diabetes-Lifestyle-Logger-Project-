@@ -1,0 +1,52 @@
+[
+    {
+        "patient_ID": "hadis1234",
+        "name": "Hadis Mahmoodkhani",
+        "age": 40,
+        "Diabetes_type": "2",
+        "Medications": [
+            {
+                "name": "Metformin",
+                "time": "8:00",
+                "frequency": "2 times per day"
+            },
+            {
+                "name": "Gliplizide",
+                "time": "9:30",
+                "frequency": "daily"
+            },
+            {
+                "name": "Alogliptin",
+                "time": "14:00",
+                "frequency": "daily"
+            }
+        ],
+        "Weight": 70.0,
+        "Height": 1.72,
+        "BMI": 23.66,
+        "Physical_activity": "no"
+    },
+    {
+        "patient_ID": "Ali23456",
+        "name": "Ali Mahmoodkhani",
+        "age": 49,
+        "Diabetes_type": "2",
+        "Medications": [
+            {
+                "name": "Metformin",
+                "time": "10:00",
+                "frequency": "2 times a day"
+            },
+            {
+                "name": "Alogliptin",
+                "time": "13:30",
+                "frequency": "1"
+            }
+        ],
+        "Weight": 110.0,
+        "Height": 1.8,
+        "BMI": 33.95,
+        "Physical_activity": "no",
+        "Uses_Glucometer": "no"
+    }
+]

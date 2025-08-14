@@ -1,0 +1,498 @@
+{
+    "hadis1234": {
+        "2025-08-02": {
+            "Breakfast": [
+                {
+                    "food": "Oatmeal",
+                    "grams": 60
+                },
+                {
+                    "food": "Granolabar",
+                    "grams": 10
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Rice",
+                    "grams": 150
+                },
+                {
+                    "food": "Fish",
+                    "grams": 65
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Meat",
+                    "grams": 50
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Banana",
+                    "grams": 100
+                }
+            ],
+            "Total_GL": 173.22,
+            "GL_error": "Please eat healthier tomorrow"
+        },
+        "2025-08-03": {
+            "Breakfast": [
+                {
+                    "food": "Chocolate milk",
+                    "grams": 25
+                },
+                {
+                    "food": "Iced cake",
+                    "grams": 250
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "French fried",
+                    "grams": 130
+                },
+                {
+                    "food": "Meat",
+                    "grams": 350
+                },
+                {
+                    "food": "Ketchup",
+                    "grams": 15
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Spinach",
+                    "grams": 30
+                },
+                {
+                    "food": "Lettuce",
+                    "grams": 40
+                },
+                {
+                    "food": "Cucumber",
+                    "grams": 50
+                },
+                {
+                    "food": "Carrots",
+                    "grams": 30
+                },
+                {
+                    "food": "Seeds",
+                    "grams": 10
+                },
+                {
+                    "food": "Tomato",
+                    "grams": 50
+                },
+                {
+                    "food": "Eggs",
+                    "grams": 50
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Potato chips",
+                    "grams": 100
+                },
+                {
+                    "food": "Hard candy",
+                    "grams": 50
+                }
+            ],
+            "Total_GL": 172.3,
+            "GL_error": "Please eat healthier tomorrow"
+        },
+        "2025-08-04": {
+            "Breakfast": [
+                {
+                    "food": "Eggs",
+                    "grams": 50
+                },
+                {
+                    "food": "Bread",
+                    "grams": 40
+                },
+                {
+                    "food": "Avocado",
+                    "grams": 75
+                },
+                {
+                    "food": "Orange juice",
+                    "grams": 240
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Poultry",
+                    "grams": 120
+                },
+                {
+                    "food": "Cooked mixed vegetables",
+                    "grams": 150
+                },
+                {
+                    "food": "Chocolate milk",
+                    "grams": 30
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Pizza",
+                    "grams": 220
+                },
+                {
+                    "food": "Ketchup",
+                    "grams": 15
+                },
+                {
+                    "food": "Water",
+                    "grams": 200
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Apple",
+                    "grams": 150
+                },
+                {
+                    "food": "Ice cream",
+                    "grams": 90
+                }
+            ],
+            "Total_GL": 77.46,
+            "GL_error": "You ate healthy today."
+        },
+        "2025-08-05": {
+            "Breakfast": [
+                {
+                    "food": "Eggs",
+                    "grams": 50
+                },
+                {
+                    "food": "Bread",
+                    "grams": 40
+                },
+                {
+                    "food": "Apple juice",
+                    "grams": 200
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Poultry",
+                    "grams": 120
+                },
+                {
+                    "food": "Cooked mixed vegetables",
+                    "grams": 150
+                },
+                {
+                    "food": "Rice",
+                    "grams": 200
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Meat",
+                    "grams": 140
+                },
+                {
+                    "food": "Water",
+                    "grams": 200
+                },
+                {
+                    "food": "Cooked mixed vegetables",
+                    "grams": 160
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Mango",
+                    "grams": 150
+                },
+                {
+                    "food": "Tortilla chips",
+                    "grams": 180
+                },
+                {
+                    "food": "Homemade cookies",
+                    "grams": 90
+                }
+            ],
+            "Total_GL": 177.47,
+            "GL_error": "Please eat healthier tomorrow"
+        },
+        "2025-08-06": {
+            "Breakfast": [
+                {
+                    "food": "Honey",
+                    "grams": 30
+                },
+                {
+                    "food": "Bread",
+                    "grams": 70
+                },
+                {
+                    "food": "Apple juice",
+                    "grams": 240
+                },
+                {
+                    "food": "Banana",
+                    "grams": 120
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Poultry",
+                    "grams": 150
+                },
+                {
+                    "food": "Cooked mixed vegetables",
+                    "grams": 150
+                },
+                {
+                    "food": "Rice",
+                    "grams": 200
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Meat",
+                    "grams": 130
+                },
+                {
+                    "food": "Water",
+                    "grams": 200
+                },
+                {
+                    "food": "Cooked mixed vegetables",
+                    "grams": 160
+                },
+                {
+                    "food": "Mashed potato",
+                    "grams": 150
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Mango",
+                    "grams": 150
+                },
+                {
+                    "food": "Tortilla chips",
+                    "grams": 180
+                },
+                {
+                    "food": "Potato chips",
+                    "grams": 80
+                }
+            ],
+            "Total_GL": 213.14,
+            "GL_error": "Please eat healthier tomorrow"
+        },
+        "2025-08-07": {
+            "Breakfast": [
+                {
+                    "food": "Honey",
+                    "grams": 120
+                },
+                {
+                    "food": "Bread",
+                    "grams": 70
+                },
+                {
+                    "food": "Orange juice",
+                    "grams": 240
+                },
+                {
+                    "food": "Banana",
+                    "grams": 120
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Poultry",
+                    "grams": 100
+                },
+                {
+                    "food": "Bread",
+                    "grams": 60
+                },
+                {
+                    "food": "French fried",
+                    "grams": 150
+                },
+                {
+                    "food": "Water",
+                    "grams": 190
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Spaghetti",
+                    "grams": 150
+                },
+                {
+                    "food": "Water",
+                    "grams": 200
+                },
+                {
+                    "food": "Canned tomato sauce",
+                    "grams": 100
+                },
+                {
+                    "food": "Bread",
+                    "grams": 50
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Chocolate milk",
+                    "grams": 50
+                },
+                {
+                    "food": "Apple",
+                    "grams": 150
+                }
+            ],
+            "Total_GL": 189.52,
+            "GL_error": "Please eat healthier tomorrow"
+        },
+        "2025-08-08": {
+            "Breakfast": [
+                {
+                    "food": "Nut butters",
+                    "grams": 40
+                },
+                {
+                    "food": "Bread",
+                    "grams": 70
+                },
+                {
+                    "food": "Orange juice",
+                    "grams": 240
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Poultry",
+                    "grams": 100
+                },
+                {
+                    "food": "Rice",
+                    "grams": 100
+                },
+                {
+                    "food": "Green peppers",
+                    "grams": 100
+                },
+                {
+                    "food": "Water",
+                    "grams": 190
+                },
+                {
+                    "food": "Cheese",
+                    "grams": 30
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Fish",
+                    "grams": 120
+                },
+                {
+                    "food": "Water",
+                    "grams": 200
+                },
+                {
+                    "food": "Mashed potatos",
+                    "grams": 150
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Apple juice",
+                    "grams": 200
+                }
+            ],
+            "Total_GL": 152.17,
+            "GL_error": "Please eat healthier tomorrow"
+        }
+    },
+    "Ali23456": {
+        "2025-08-11": {
+            "Breakfast": [
+                {
+                    "food": "Granolabar",
+                    "grams": 50.0
+                },
+                {
+                    "food": "Bread",
+                    "grams": 100.0
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Meat",
+                    "grams": 60.0
+                },
+                {
+                    "food": "Rice",
+                    "grams": 100.0
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Frech fried",
+                    "grams": 65.0
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Chocolate milk",
+                    "grams": 200.0
+                }
+            ],
+            "Total_GL": 81.78,
+            "GL_error": "You ate healthy today."
+        },
+        "2025-08-12": {
+            "Breakfast": [
+                {
+                    "food": "Chocolate milk",
+                    "grams": 200.0
+                },
+                {
+                    "food": "Eggs",
+                    "grams": 50.0
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Fish",
+                    "grams": 68.0
+                },
+                {
+                    "food": "Rice",
+                    "grams": 90.0
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Frech fried",
+                    "grams": 100.0
+                }
+            ],
+            "Snack": [
+                {
+                    "food": "Apple",
+                    "grams": 60.0
+                }
+            ],
+            "Total_GL": 25.97,
+            "GL_error": "You ate healthy today."
+        }
+    }
+}
